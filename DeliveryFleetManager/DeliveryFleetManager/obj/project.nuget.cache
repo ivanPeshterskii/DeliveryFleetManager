@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UBUr1DalOxyV80o2kEHtA1LTYUp3rrNtLLRuFthPnctOXAMuLEZtEByE3EZ+noYgEOx7PittLTczfZMkuI7YHQ==",
+  "success": true,
+  "projectFilePath": "/Users/ivanpeshterski/Projects/DeliveryFleetManager/DeliveryFleetManager/DeliveryFleetManager.csproj",
+  "expectedPackageFiles": [
+    "/Users/ivanpeshterski/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/ivanpeshterski/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/ivanpeshterski/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
